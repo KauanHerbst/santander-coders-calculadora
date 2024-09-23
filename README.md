@@ -12,3 +12,7 @@ Este é um projeto simples de uma calculadora que realiza operações matemátic
 - HTML
 - CSS
 - JavaScript
+
+### Interface
+
+<img src="https://github.com/KauanHerbst/santander-coders-calculadora/blob/main/public/image_calculadora.png?raw=true">
